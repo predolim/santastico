@@ -1,4 +1,4 @@
-santastico
+Santástico
 ==========
 
-mockups e testes
+Mockups e testes do site
